@@ -3,6 +3,7 @@ I am currently a fourth-year student of Computer Engineering at the<br> Universi
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopez-3359b6260/)
 
 
 # 💻 Tech Stack:
